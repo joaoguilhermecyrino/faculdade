@@ -1,0 +1,19 @@
+footer {
+    position: fixed; /* Posiciona o rodapé */
+    bottom: 0; /* Fixa na parte inferior */
+    left: 0; /* Fixa à esquerda */
+    right: 0; /* Fixa à direita */
+    background-color: #343a40; /* Cor de fundo do rodapé */
+    color: white; /* Cor do texto */
+    padding: 10px 0; /* Padding do rodapé */
+}
+
+.rodape1{
+left: 0;
+
+}
+
+.textoalinhado{
+text-align: center;
+
+}
